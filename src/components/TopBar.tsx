@@ -37,7 +37,7 @@ const TopBar: Component = () => {
     <header class="wireframe-border bg-wireframe-50 border-b sticky top-0 z-30">
       <div class="px-4 py-3 flex items-center justify-between">
         {/* Brand */}
-        <a href="/#/" class="flex items-center space-x-2" title="Tagstr - Nostr hashtag explorer">
+        <a href="#/" class="flex items-center space-x-2" title="Tagstr - Nostr hashtag explorer">
           <h1 class="text-xl font-bold tracking-tight" title="Application name">
             tagstr
           </h1>
