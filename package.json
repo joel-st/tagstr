@@ -1,0 +1,39 @@
+{
+  "name": "tagstr",
+  "version": "0.1.0",
+  "description": "A nostr client focusing on hashtags",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@solidjs/router": "^0.10.5",
+    "applesauce-core": "^3.1.0",
+    "applesauce-loaders": "^3.1.0",
+    "applesauce-relay": "^3.1.0",
+    "nostr-tools": "^2.1.0",
+    "rxjs": "^7.8.1",
+    "solid-js": "^1.8.11"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.5",
+    "autoprefixer": "^10.4.16",
+    "baseline-browser-mapping": "^2.9.14",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5.3.3",
+    "vite": "^5.0.10",
+    "vite-plugin-solid": "^2.8.2"
+  },
+  "keywords": [
+    "nostr",
+    "hashtags",
+    "social",
+    "decentralized",
+    "solidjs"
+  ],
+  "author": "",
+  "license": "MIT"
+}
